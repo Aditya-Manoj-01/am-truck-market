@@ -2,7 +2,7 @@ import Link from "next/link";
 import Image from "next/image";
 import { MapPin, Calendar, Star } from "lucide-react";
 import { Badge } from "@/components/ui/badge";
-import { Button } from "@/components/ui/button";
+import { Button } from "../../components/ui/button";
 import { Truck } from "@/types/truck";
 
 function formatPrice(price: number) {
