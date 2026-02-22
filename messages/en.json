@@ -1,0 +1,69 @@
+{
+  "nav": {
+    "home": "Home",
+    "browse": "Browse Trucks",
+    "contact": "Contact",
+    "list": "List Your Truck"
+  },
+  "hero": {
+    "badge": "Maharashtra #1 Truck Marketplace",
+    "title": "Buy & Sell Trucks",
+    "subtitle": "Fast. Safe. Trusted.",
+    "description": "Connect with verified truck dealers across Maharashtra.",
+    "search": "Search by brand, model or location...",
+    "searchBtn": "Search",
+    "stat1": "Trucks Listed",
+    "stat2": "Verified Sellers",
+    "stat3": "Cities Covered"
+  },
+  "why": {
+    "title": "Why Choose AM Truck Market?",
+    "v1title": "Verified Listings",
+    "v1desc": "Every truck listing is verified before going live.",
+    "v2title": "Fast Deals",
+    "v2desc": "Connect directly with sellers. No middlemen.",
+    "v3title": "Trusted Community",
+    "v3desc": "Join 200+ verified dealers and thousands of buyers."
+  },
+  "featured": {
+    "title": "Featured Trucks",
+    "subtitle": "Hand-picked premium listings",
+    "viewAll": "View All"
+  },
+  "latest": {
+    "title": "Latest Listings",
+    "subtitle": "Recently added trucks",
+    "viewAll": "View All"
+  },
+  "cta": {
+    "title": "Want to Sell Your Truck?",
+    "desc": "List your truck in minutes. Starting at just Rs.199.",
+    "listBtn": "List Your Truck",
+    "callBtn": "Call Us Now"
+  },
+  "trucks": {
+    "available": "trucks available",
+    "price": "Price",
+    "viewDetails": "View Details",
+    "back": "Back to Listings",
+    "askingPrice": "Asking Price",
+    "description": "Description",
+    "brand": "Brand",
+    "model": "Model",
+    "year": "Year",
+    "location": "Location",
+    "contact": "Contact Seller",
+    "enquiry": "Send Enquiry"
+  },
+  "footer": {
+    "tagline": "Maharashtra most trusted platform for buying and selling trucks.",
+    "quickLinks": "Quick Links",
+    "contactUs": "Contact Us",
+    "rights": "All rights reserved."
+  },
+  "lang": {
+    "choose": "Choose Your Language",
+    "subtitle": "Select your preferred language",
+    "change": "You can change language anytime from the menu"
+  }
+}

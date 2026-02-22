@@ -19,10 +19,11 @@ export default function LanguageModal() {
     if (!saved) setShow(true);
   }, []);
 
-  function selectLanguage(code: string) {
-    localStorage.setItem("preferred_language", code);
-    setShow(false);
-  }
+function selectLanguage(code: string) {
+  localStorage.setItem("preferred_language", code);
+  setShow(false);
+  window.location.href = `/${code}`;
+}
 
   if (!show) return null;
 
