@@ -66,7 +66,7 @@ export default function TruckCard({ truck }: { truck: Truck }) {
               {formatPrice(truck.price)}
             </p>
           </div>
-          <Link href={`trucks/${truck.id}`}>
+          <Link href={`./trucks/${truck.id}`}>
             <Button className="bg-orange-500 hover:bg-orange-600 text-white rounded-xl">
               View Details
             </Button>
